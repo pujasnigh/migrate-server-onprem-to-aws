@@ -173,3 +173,8 @@ Note down the ImportTaskId to check the progress of the import job.
 # 8. Launch New EC2
 Once you launch the VM, you can login using the same uid/password you used onpremise. Typically in real-world you will clean this before the import task and setup SSH key-based authentication
 
+# References
+  #  1. AWS CLI - import-image
+
+  #  2. AWS Blogs - Importing a VM
+
